@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**                                                                                                                      * main - assigns a random number to int n each time it runs
- * and print n and last digit of n to standard output
+ * main  print n and last digit of n to standard output
  * Return (0) Success
  */
 int main(void)
