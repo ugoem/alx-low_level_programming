@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/**                                                                                                                      * main - assigns a random number to int n each time it runs
+/**
  * main - print n and last digit of n to standard output
- * Return: (0) Success
+ * Return: Always 0 (success)
  */
 int main(void)
 {
