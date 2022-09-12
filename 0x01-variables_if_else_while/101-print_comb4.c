@@ -3,7 +3,7 @@
 
 /**
  * main - all possible different combinations of three digits
- * return 0 -success
+ * Return: 0 - success
  */
 int main(void)
 {
