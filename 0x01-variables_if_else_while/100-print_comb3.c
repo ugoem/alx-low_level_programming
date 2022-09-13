@@ -3,7 +3,7 @@
 
 /**
  * main - prints all possible different combinations of three digits.
- * return 0
+ * Return: (0)
  */
 int main(void)
 {
@@ -13,7 +13,7 @@ int main(void)
 	{
 		for (n2 = 49; n2 <= 57; n2++)
 		{
-			if (n2>n1)
+			if (n2 > n1)
 			{
 				putchar(n1);
 				putchar(n2);

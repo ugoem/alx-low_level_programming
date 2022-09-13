@@ -3,11 +3,12 @@
 
 /**
  * main - prints all possible combinations of single-digit numbers.
- * return 0
+ * Return: (0) Always success
  */
 int main(void)
 {
 	int numb;
+
 	for (numb = 48; numb < 58; numb++)
 	{
 		putchar(numb);

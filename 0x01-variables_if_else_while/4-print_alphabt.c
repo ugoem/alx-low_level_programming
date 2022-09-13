@@ -4,15 +4,15 @@
 /**
  * main - prints the alphabet in lowercase, followed by a new line
  * Print all the letters except q and e
- * return (0)
+ * Return: (0)
  */
 int main(void)
 {
 	char letter = 'a';
-	
+
 	while (letter <= 'z')
 	{
-		if (letter !='e' && letter != 'q')
+		if (letter != 'e' && letter != 'q')
 		{
 			putchar(letter);
 		}
