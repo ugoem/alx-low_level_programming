@@ -7,8 +7,8 @@
 void print_alphabet(void)
 {
 	char alpha;
-	alpha = 'a';
 
+	alpha = 'a';
 	while (alpha <= 'z')
 	{
 		_putchar(alpha);
