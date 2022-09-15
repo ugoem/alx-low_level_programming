@@ -2,7 +2,7 @@
 
 /**
  * times_table - is a function that prints the 9 times table, starting with 0
- * rw = row, col = column, dg = digits of the result
+ * i = row, j = column, k = digits of the result
  * Retun: times table
  * add extra space past single digit
  */
