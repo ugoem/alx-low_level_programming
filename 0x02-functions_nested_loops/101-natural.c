@@ -12,7 +12,7 @@ int main(void)
 
 	sum1 = 0;
 	sum2 = 0;
-	sum = 0;
+	sumtotal = 0;
 
 	for (i = 0; i < 1024; ++i)
 	{
