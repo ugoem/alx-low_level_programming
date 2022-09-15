@@ -6,32 +6,32 @@
  * Retun: times table
  * add extra space past single digit
  */
-void times_table(void)
+ void times_table(void)
 {
-	int rw, col, dg;
+	int i, j, k;
 
-	for (rw = 0; rw < 10; rw++)
+	for (i = 0; i < 10; i++)
 	{
-		for (col = 0; col < 10; col++)
+		for (j = 0; j < 10; j++)
 		{
-			dg = (rw * col);
-			if ((col == 0)
+			k = j * i;
+			if (j == 0)
 			{
-				_putchar((dg + '0');
+				_putchar(k + '0');
 			}
-			if (dg < 10 && col != 0)
+
+			if (k < 10 && j != 0)
 			{
 				_putchar(',');
 				_putchar(' ');
 				_putchar(' ');
-				_putchar(dg + '0');
-			}
-			else if (dg >= 10)
+				_putchar(k + '0');
+			} else if (k >= 10)
 			{
 				_putchar(',');
 				_putchar(' ');
-				_putchar((dg / 10) + '0');
-				_putchar((dg % 10) + '0');
+				_putchar((k / 10) + '0');
+				_putchar((k % 10) + '0');
 			}
 		}
 		_putchar('\n');
