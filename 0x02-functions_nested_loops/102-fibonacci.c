@@ -24,7 +24,7 @@ int main(void)
 		}
 		next_term = b + c;
 		b = c;
-		k = next_term;
+		c = next_term;
 	}
 
 	return (0);
