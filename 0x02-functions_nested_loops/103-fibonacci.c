@@ -17,7 +17,7 @@ int main(void)
 
 	for (i = 1; i <= 33; ++i)
 	{
-		if (a < 4000000 && (b % 2) == 0)
+		if (a < 4000000 && (a % 2) == 0)
 		{
 			sum_total = sum_total + a;
 		}
