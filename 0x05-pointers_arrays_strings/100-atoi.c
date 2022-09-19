@@ -8,7 +8,7 @@
  * You are not allowed to use long
  * You are not allowed to declare new variables of “type” array
  * You are not allowed to hard-code special values
- * We will use the -fsanitize=signed-integer-overflow gcc flag to compile 
+ * We will use the -fsanitize=signed-integer-overflow gcc flag to compile
  * your code.
  * @s: string to be converted
  * Return: converted integer
