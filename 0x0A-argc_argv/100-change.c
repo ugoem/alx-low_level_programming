@@ -8,7 +8,7 @@
  *
  * Return: the int converted from the string
  */
-int atoi(char *s)
+int _atoi(char *s)
 {
 
 	int i, d, n, ln, f, dgt;
@@ -60,7 +60,7 @@ int main(int argc, char *argv[])
 		return (1);
 	}
 
-	num = atoi(argv[1]);
+	num = _atoi(argv[1]);
 	res = 0;
 
 	if (num < 0)
