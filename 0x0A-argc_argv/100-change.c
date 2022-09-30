@@ -12,7 +12,6 @@
  */
 int main(int argc, char *argv[])
 {
-	
 	int num, j, res;
 	int coins[] = {25, 10, 5, 2, 1};
 
