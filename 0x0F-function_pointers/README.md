@@ -12,10 +12,15 @@ parameter on each element of an array.
 => 3-calc - contain all the function prototypes and data structures used by the program.
 
 => 3-op_functions - is a contain the 5 following functions (not more):
--op_add: returns the sum of a and b
--op_sub: returns the difference of a and b
--op_mul: returns the product of a and b
--op_div: returns the result of the division of a by b
+
+-op_add: returns the sum of a and b.
+
+-op_sub: returns the difference of a and b.
+
+-op_mul: returns the product of a and b.
+
+-op_div: returns the result of the division of a by b.
+
 -op_mod: returns the remainder of the division of a by b
 
 => 3-get_op_func - is a contain the function that selects the correct function to perform
