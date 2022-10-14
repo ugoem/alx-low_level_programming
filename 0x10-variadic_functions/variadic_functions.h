@@ -1,8 +1,6 @@
 #ifndef VARIADIC_FUNCTIONS_H
 #define VARIADIC_FUNCTIONS_H
 
-#include <stdio.h>
-
 /*
  * File: variadic_functions.h
  * Auth: ugoem
