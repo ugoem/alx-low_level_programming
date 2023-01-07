@@ -1,7 +1,7 @@
 # Python_Hash_Tables
 
 
-### Learning Objectives
+## Learning Objectives
 
 * What is a hash function
 * What makes a good hash function
