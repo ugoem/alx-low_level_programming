@@ -1,5 +1,7 @@
 # C - Makefiles
 
+![](https://i.stack.imgur.com/hpDyp.png)
+
 # Requirements
 ## General
 * Allowed editors: vi, vim, emacs
