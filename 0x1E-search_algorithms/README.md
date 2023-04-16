@@ -2,7 +2,7 @@
 
 ![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/01/searching.png)
 
-Resources
+## Resources
 
 Read or watch:
 
@@ -10,9 +10,9 @@ Search algorithm
 
 Space complexity (1)
 
-Requirements
+# Requirements
 
-General
+## General
 
 Allowed editors: vi, vim, emacs
 
@@ -38,7 +38,7 @@ Don’t forget to push your header file
 
 All your header files should be include guarded
 
-More Info
+## More Info
 
 You will be asked to write files containing big O notations. Please use this format:
 
